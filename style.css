@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(0, 0, 0);
+  }
+  img {
+    border: 5px solid white;
+    width: 100%;
+  }
+  div {
+    width: 50%;
+    margin-left: 25%;
+  }
+  p {
+    color: white;
+    text-align: center;
+  }
+  h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Tilt Neon', sans-serif;
+  }
+
+  #lastdiv {
+    margin-bottom: 80px;
+  }
+  footer {
+    background-color: rgb(11, 26, 26);
+    padding: 30px;
+  }
+  li {
+    color: rgb(148, 229, 231);
+  }
